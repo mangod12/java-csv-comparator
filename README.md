@@ -21,7 +21,7 @@ A Java-based CSV comparison tool with a modern GUI that identifies differences, 
 
 ## 📋 Requirements
 
-- **Java 8 or higher** (Java Development Kit)
+- **Java 9 or higher** (Java Development Kit)
 - CSV files with consistent structure
 - Recommended: A unique identifier column (e.g., ID, Employee Number)
 

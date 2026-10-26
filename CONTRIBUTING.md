@@ -1,6 +1,6 @@
 # Contributing to CandidateComparerCSV
 
-First off, thank you for considering contributing to CandidateComparerCSV! It's people like you that make this tool better for everyone.
+First off, thank you for considering contributing to CandidateComparerCSV! It's people like you who make this tool better for everyone.
 
 ## How Can I Contribute?
 
@@ -26,7 +26,7 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 
 ### Pull Requests
 
-* Fill in the required template
+* Describe the change and include any relevant testing details in your pull request description
 * Follow the Java coding style used in the project
 * Include comments in your code where necessary
 * Update the README.md if you change functionality
